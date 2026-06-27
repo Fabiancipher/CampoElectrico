@@ -1,2 +1,3 @@
 # CampoElectrico
-Visualización de un campo eléctrico 
+### Visualización de un campo eléctrico 
+### Electromagnetismo
